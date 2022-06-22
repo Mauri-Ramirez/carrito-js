@@ -1,0 +1,226 @@
+[   
+    {
+        "id": 1,
+        "nombre": "Zero Single Skull Black 8.5",
+        "img": "../images/zero/zerosingleskullblack.jpg",
+        "precio": "15000",
+        "stock": "5"
+        
+    },
+
+    {
+        "id": 2,
+        "nombre": "Zero Skull Blood 8.2 ",
+        "img": "../images/zero/zeroskullblood.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Baker Reynolds 8.3",
+        "img": "../images/baker/bakerreynoldswavyblackred.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+    
+    {
+        "id": 4,
+        "nombre": "Baker Logo 8.0",
+        "img": "../images/baker/bakerbrandlogo.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+    
+    {
+        "id": 5,
+        "nombre": "Creature Logo 8.5",
+        "img": "../images/creature/creaturelogooutlinestumps.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Creature Milton 8.3",
+        "img": "../images/creature/creaturemiltonbraingone.jpg",
+        "precio": "15000",
+        "stock": "5"
+        
+    },
+
+    {
+        "id": 7,
+        "nombre": "DeathWish foil 8.1",
+        "img": "../images/deathwish/deathwishfoil.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+
+    {
+        "id": 8,
+        "nombre": "DeathWish Jon Dickson 8.0",
+        "img": "../images/deathwish/deathwishjdblasphemy.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+    
+    {
+        "id": 9,
+        "nombre": "Toy Machine Bury The Hatchet 8.3 ",
+        "img": "../images/toymachine/toymachineburythehatchet.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+    
+    {
+        "id": 10,
+        "nombre": "Toy Machine Future Eye 8.2",
+        "img": "../images/toymachine/toymachinefutureeye.jpg",
+        "precio": "15000",
+        "stock": "5"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Independent Black 145",
+        "img": "../images/trucks/independentblack.jpg",
+        "precio": "20000",
+        "stock": "5"
+    },
+
+    {
+        "id": 12,
+        "nombre": "Independent Hollow Reynolds 143",
+        "img": "../images/trucks/independenthollowreynolds.jpg",
+        "precio": "20000",
+        "stock": "5"
+    },
+
+    {
+        "id": 13,
+        "nombre": "Intependent Toy Machine 139",
+        "img": "../images/trucks/independenttoymachine.jpg",
+        "precio": "20000",
+        "stock": "5"
+    },
+    
+    {
+        "id": 14,
+        "nombre": "Thunder Lights Black 145",
+        "img": "../images/trucks/thunderlightsblackpolished.jpg",
+        "precio": "20000",
+        "stock": "5"
+    },
+
+    {
+        "id": 15,
+        "nombre": "Bones Harts Speed Gator 54",
+        "img": "../images/ruedas/boneshartspeedgator.jpg",
+        "precio": "10000",
+        "stock": "5"
+    },
+
+    {
+        "id": 16,
+        "nombre": "Bones Ryan Crash 53",
+        "img": "../images/ruedas/bonesryancrash.jpg",
+        "precio": "10000",
+        "stock": "5"
+    },
+
+    {
+        "id": 17,
+        "nombre": "SpitFire Radial Trippy 51",
+        "img": "../images/ruedas/spitfireradialtrippy.jpg",
+        "precio": "10000",
+        "stock": "5"
+    },
+
+    {
+        "id": 18,
+        "nombre": "SpitdFire Big Head 52",
+        "img": "../images/ruedas/spitfirebighead.jpg",
+        "precio": "10000",
+        "stock": "5"
+    },
+
+    {
+        "id": 19,
+        "nombre": "Pig ABEC 7",
+        "img": "../images/rodamientos/rodamientospig.jpg",
+        "precio": "10000",
+        "stock": "5"
+    },
+
+    {
+        "id": 20,
+        "nombre": "Diamond ABEC 5",
+        "img": "../images/rodamientos/rodamientosdiamond.jpg",
+        "precio": "10000",
+        "stock": "5"
+    },
+
+    {
+        "id": 21,
+        "nombre": "Lija MOB",
+        "img": "../images/lijas/lijamob.jpg",
+        "precio": "2000",
+        "stock": "5"
+    },
+
+    {
+        "id": 22,
+        "nombre": "Lija Element",
+        "img": "../images/lijas/lijaelement.jpg",
+        "precio": "2000",
+        "stock": "5"
+    },
+
+    {
+        "id": 23,
+        "nombre": "Almost 25,4mm",
+        "img": "../images/tornillos/tornillosalmost.jpg",
+        "precio": "1500",
+        "stock": "5"
+    },
+
+    {
+        "id": 24,
+        "nombre": "Diamond 25,4mm",
+        "img": "../images/tornillos/tornillosdiamond.jpg",
+        "precio": "1500",
+        "stock": "5"
+    },
+
+    {
+        "id": 25,
+        "nombre": "Pad Pig",
+        "img": "../images/accesorios/padspig.jpg",
+        "precio": "1000",
+        "stock": "5"
+    },
+
+    {
+        "id": 26,
+        "nombre": "Rails Creature",
+        "img": "../images/accesorios/railscreature.jpg",
+        "precio": "1000",
+        "stock": "5"
+    },
+
+    {
+        "id": 27,
+        "nombre": "Cera Santa Cruz",
+        "img": "../images/accesorios/cerasantacruz.jpg",
+        "precio": "500",
+        "stock": "5"
+    },
+    {
+        "id": 28,
+        "nombre": "Llave T",
+        "img": "../images/accesorios/llavetimpalapink.jpg",
+        "precio": "500",
+        "stock": "5"
+    }
+]
